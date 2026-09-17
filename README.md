@@ -7,3 +7,7 @@ Implementación de métodos numéricos y resolución de ejercicios correspondien
 El proyecto utiliza un entorno de desarrollo basado en **Dev Container**, con **Python 3.12**.
 
 Las dependencias de Python se encuentran especificadas en `requirements.txt` y se instalan automáticamente al crear el contenedor.
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia MIT. Consultar el archivo `LICENSE` para más información.
