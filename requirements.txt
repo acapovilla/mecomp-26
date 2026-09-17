@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+pandas
+sympy
+
+# Use matplotlib widget mode
+ipython
+ipykernel
+ipympl
